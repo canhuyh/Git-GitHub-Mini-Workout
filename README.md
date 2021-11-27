@@ -1,4 +1,4 @@
-# Bài luyện tập Git và GitHub
+# Bài luyện tập Git và GitHub cơ bản
 
 1. Tạo một tài khoản GitHub.
 2. Tao một repository trên GitHub.
